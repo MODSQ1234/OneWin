@@ -1,10 +1,10 @@
 # api id, hash
-API_ID = 1111
-API_HASH = 'api_hash'
+API_ID = 27940595
+API_HASH = '89a1fa73f8cc1e1002044e1e4e2b7b65'
 
 USE_TG_BOT = False # True if you want use tg, else False
-BOT_TOKEN = '283993:kdmioieiweikiokeocki4okew' # API TOKEN get in @BotFather
-CHAT_ID = '22803822' # Your telegram id
+BOT_TOKEN = '6815171521:AAGJWOn6O-OAYa0ccMsE6QWXRIQTeg2hKK8' # API TOKEN get in @BotFather
+CHAT_ID = '1098027220' # Your telegram id
 
 # задержка между подключениями к аккаунтам
 ACC_DELAY = [5, 15]
